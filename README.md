@@ -1,6 +1,6 @@
 # Native File Dialog CMake
 
-In this fork I replaced Premake and other build system with CMake
+Fork to nativefiledialog-cmake ( which replaced premake with cmake ) with one minor adjustment to CMakeLists.txt to use nativefiledialog as submodule to example-project Vulkan UI
 
 For more information look at the original [README.md](https://github.com/mlabbe/nativefiledialog/blob/5cfe5002eb0fac1e49777a17dec70134147931e2/README.md)
 
